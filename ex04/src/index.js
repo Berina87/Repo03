@@ -1,10 +1,10 @@
 function main(){
     //Only change code below this line
-    var x = 10
-    var y = x;
+    var x = 8
+   
 
     //Only change code above this line
-    return [x, y];
+    return x;
 }
 
 console.log (main());

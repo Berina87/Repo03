@@ -1,6 +1,14 @@
 function main(){
     //Only change code below this line
-    console.log('Hello World!');
+
+    //One line comment in JS
+
+    /* Multi 
+    line 
+    comment 
+    in JS
+    */
+
     //Only change code above this line
 }
 
